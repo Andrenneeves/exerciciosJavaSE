@@ -1,0 +1,3 @@
+dever de casa
+
+faça uma tela para exibir os dados do arquivo txt

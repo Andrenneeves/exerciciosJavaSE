@@ -1,0 +1,9 @@
+Dever de casa
+=============
+
+receba a data e o vencimento de um boleto.
+Caso o boleto esteja vencido,
+calcular multa de 2% do total + R$ 1,10 por dia!
+
+DESAFIO
+guarde as informções do boleto pago no Banco de dados

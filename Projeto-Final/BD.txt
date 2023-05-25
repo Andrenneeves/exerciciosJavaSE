@@ -1,0 +1,21 @@
+CREATE DATABASE minha_loja;
+
+CREATE TABLE clientes (
+    id int PRIMARY KEY AUTO_INCREMENT,
+    nome varchar(20) NOT NULL,
+    nascimento varchar(10) NOT NULL,
+    telefone varchar(11) NOT NULL,
+    cpf varchar(14) NOT NULL
+    )
+
+CREATE TABLE carro (
+    id int PRIMARY KEY AUTO_INCREMENT,
+    marca varchar(20) NOT NULL,
+    modelo varchar(30) NOT NULL,
+    ano varchar(11) NOT NULL,
+    placa varchar(14) NOT NULL
+    );
+
+
+
+*coloquei os números como varchar para no código entrar string. Não vou fazer calculo com eles nesse projeto

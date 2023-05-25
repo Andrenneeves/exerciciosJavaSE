@@ -1,0 +1,6 @@
+Dever de casa
+-------------
+
+Crie um cadastro de veiculos com modelo, cor e ano.
+Possibilite cadastrar quantos o usuário quiser
+após isso, imprima todos os cadastrados

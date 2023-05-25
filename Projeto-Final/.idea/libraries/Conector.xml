@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Conector">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/../Conector" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Conector" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../Conector" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../Conector" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Conector" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Conector" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Conector" recursive="false" type="SOURCES" />
+  </library>
+</component>

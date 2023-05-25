@@ -1,0 +1,6 @@
+Faça um sistema que cadastre um aluno
+com nome, idade e gênero
+e logo após mostre todos os cadastros de alunos
+no banco de dados!
+
+System.out.println("Nome: " + resultado.getString("nome"));

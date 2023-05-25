@@ -1,0 +1,8 @@
+Dever de casa
+-------------
+
+*Termine de fazer funcionar os botões numéricos (de 0 a 9)
+*inclua o botão de vírgula, sabendo que não pode começar com vírgula, nem ter mais
+de uma vírgula no visor.
+*Faça funcionar os operadores e o igual.
+A funcionalidade é igual à calculadora do JS.

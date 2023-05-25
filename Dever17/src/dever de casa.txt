@@ -1,0 +1,3 @@
+Termine as 3 operações restantes e faça uma tela de calculadora
+completa, como feito anterior em JS.
+deverá ter 1 input, 10 btns de numero (0 a 9) e os 4 operadores
